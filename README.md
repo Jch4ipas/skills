@@ -7,6 +7,7 @@ We are in 2026, IA blows up everywhere. This is my collection of agents.
 From this file, be sure to create agent for each files listed here:
 ```
 ├── CodingStandards.md
+├── Developer.md
 ├── Git.md
 ├── HTML.md
 ├── Makefile.md
@@ -19,6 +20,7 @@ From this file, be sure to create agent for each files listed here:
 
 Belows stand the list of agents that you can use in your project.
 - CodingStandards.md
+- Developer.md
 - Git.md
 - HTML.md
 - Makefile.md
