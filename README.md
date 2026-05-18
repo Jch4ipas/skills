@@ -9,6 +9,7 @@ From this file, be sure to create agent for each files listed here:
 ├── CodingStandards.md
 ├── Git.md
 ├── HTML.md
+├── Makefile.md
 ├── Markdown.md
 ├── Repository.md
 └── Security.md
@@ -20,6 +21,7 @@ Belows stand the list of agents that you can use in your project.
 - CodingStandards.md
 - Git.md
 - HTML.md
+- Makefile.md
 - Markdown.md
 - Repository.md
 - Security.md
