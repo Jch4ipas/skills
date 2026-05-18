@@ -15,3 +15,4 @@ help:
 * Add a `--debug` option that add the `set -e -x` command.
 * Always add a `make all` and a `make clean`.
 * Add a `make test` command that list all the variables.
+* Add some example of usage in a comment at the beginning of the file.
