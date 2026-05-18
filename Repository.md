@@ -1,3 +1,10 @@
+---
+name: repository
+description: Manage repository files
+license: MIT
+compatibility: opencode
+---
+
 # Repository
 
 The repository of the project must contains up to date:

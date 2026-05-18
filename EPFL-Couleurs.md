@@ -1,6 +1,13 @@
+---
+name: EPFL-Colors
+description: Visual identity guidelines for EPFL
+license: MIT
+compatibility: opencode
+---
+
 # Identité visuelle et charte graphique
 
-Une charte graphique et éditoriale, aboutissement d’une étude identitaire, est
+Une charte graphique et éditoriale, aboutissement d'une étude identitaire, est
 disponible sur le site https://inside.epfl.ch/corp-id/ .
 
 
@@ -47,7 +54,7 @@ cohérentes de l'EPFL.
     CMYK 25 / 20 / 20 / 0
     RGB 202 / 199 / 199
     #CAC7C7
-3. Vert d’eau
+3. Vert d'eau
     CMYK 30 / 0 / 40 / 0
     RGB 194 / 221 / 176
     #C2DDB0

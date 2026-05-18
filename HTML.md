@@ -1,3 +1,10 @@
+---
+name: HTML
+description: HTML kept simple
+license: MIT
+compatibility: opencode
+---
+
 # HTML
 
 - Use the elements most appropriate semantically.

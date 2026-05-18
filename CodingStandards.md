@@ -1,3 +1,10 @@
+---
+name: coding-standards
+description: Respect coding standards of each of programming langage
+license: MIT
+compatibility: opencode
+---
+
 # Coding standards
 
 - Respect coding standards of each of programming langage you use.

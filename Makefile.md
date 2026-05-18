@@ -1,3 +1,10 @@
+---
+name: makefile
+description: Makefile instructions
+license: MIT
+compatibility: opencode
+---
+
 # Makefile
 
 * Add the `SHELL := /bin/bash` instructions.

@@ -21,3 +21,4 @@ Here's a list of ressoureces one can use to get some ideas.
 - OpenSource Guide https://opensource.guide/
 - HTML.md from https://dev.to/j9t/htmlmd-5do5
 - https://lukastrumm.com/notes/github-special-files/
+- https://opencode.ai/docs/skills/

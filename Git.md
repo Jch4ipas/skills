@@ -1,3 +1,10 @@
+---
+name: Git-commiter
+description: Git best practices
+license: MIT
+compatibility: opencode
+---
+
 # Git
 
 - Do one commit per feature. Use ATOMIC commit.

@@ -1,3 +1,10 @@
+---
+name: markdown
+description: Markdown instructions
+license: MIT
+compatibility: opencode
+---
+
 # Markdown
 
 - When writting Makrdown file, use the [CommonMark specification].

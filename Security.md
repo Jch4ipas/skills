@@ -1,3 +1,10 @@
+---
+name: security
+description: Security agent
+license: MIT
+compatibility: opencode
+---
+
 # Security
 
 ## Do:
