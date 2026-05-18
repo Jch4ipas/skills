@@ -1,5 +1,6 @@
 # Git
 
+- Do one commit per feature. Use ATOMIC commit.
 - Use a rebase based workflow.
 - Branches names are: `feature/`, `doc/`, `fix/`.
 - Commit messages always starts with a tag: [bump], [doc], [feature], [fix], 
