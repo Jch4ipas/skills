@@ -1,37 +1,34 @@
 # AGENTS
 
-We are in 2026, IA blows up everywhere. This is my collection of agents.
+We are in 2026, IA blows up everywhere. This is my collection of skills.
 
 ## Usage
 
-First of all, do a `git clone git@gitlab.epfl.ch:nborboen/agents.git AGENTS` to
-get all the agents.
+First of all, do a `git clone git@gitlab.epfl.ch:nborboen/skills.git` into 
+* your project under `.github/skills/`, `.claude/skills/`, `.agents/skills/`,
+  `.opencode/skills`, etc.
+* or globally under `~/.copilot/skills/`, `~/.claude/skills/`,
+  `~/.agents/skills/`, `~/.config/opencode`, etc.
 
-From this file, be sure to create agent for each files listed here:
-```
-├── CodingStandards.md
-├── Developer.md
-├── EPFL-Couleurs.md
-├── Git.md
-├── HTML.md
-├── Makefile.md
-├── Markdown.md
-├── Repository.md
-└── Security.md
-```
+See [¹] and [²] for details.
 
-## Agents list
+> [!TIP]
+> If you are not sure, use `~/.config/agents/` which is the most generic.  
+> Run `mkdir ~/.config/agents/` then  
+> `git clone git@gitlab.epfl.ch:nborboen/skills.git ~/.config/agents/skills`
+
+## Skills list
 
 Belows stand the list of agents that you can use in your project.
-- [CodingStandards.md](./CodingStandards.md)
-- [Developer.md](./Developer.md)
-- [EPFL-Couleurs.md](./EPFL-Couleurs.md)
-- [Git.md](./Git.md)
-- [HTML.md](./HTML.md)
-- [Makefile.md](./Makefile.md)
-- [Markdown.md](./Markdown.md)
-- [Repository.md](./Repository.md)
-- [Security.md](./Security.md)
+- [coding-standards](./coding-standards/SKILL.md)
+- [developer](./developer/SKILL.md)
+- [EPFL-colors](./EPFL-colors/SKILL.md)
+- [git](./git/SKILL.md)
+- [HTML](./HTML/SKILL.md)
+- [makefile](./makefile/SKILL.md)
+- [markdown](./markdown/SKILL.md)
+- [repository](./repository/SKILL.md)
+- [security](./security/SKILL.md)
 
 ## NOTES
 
@@ -40,4 +37,9 @@ The [NOTES.md](./NOTES.md) list some souces for agents and best practices.
 ## Contributions welcome
 
 Whether you want to fix a bug or a typo, improve the documentation, or propose a
-new agent, your help is highly appreciated. Contributors of all skill levels are welcome.
+new agent, your help is highly appreciated. Contributors of all skill levels are
+welcome.
+
+
+[¹]: https://code.visualstudio.com/docs/copilot/customization/agent-skills
+[²]: https://opencode.ai/docs/skills/

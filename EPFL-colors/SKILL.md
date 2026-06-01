@@ -10,7 +10,6 @@ compatibility: opencode
 Une charte graphique et éditoriale, aboutissement d'une étude identitaire, est
 disponible sur le site https://inside.epfl.ch/corp-id/ .
 
-
 ## Couleurs
 
 Utiliser les couleurs de manière appropriée est l'un des moyens les plus simples
@@ -97,3 +96,25 @@ cohérentes de l'EPFL.
     RGB 65 / 61 / 58
     #413D3A
     Pantone BLACK 7 C
+
+## Styles
+
+Use variables in cascading styles sheets:
+```
+--epfl-red: #FF0000;
+--epfl-groseille: #B51F1F;
+--epfl-turquoise: #00A79F;
+--epfl-canard: #007480;
+--epfl-montrose: #F39869;
+--epfl-perle: #CAC7C7;
+--epfl-vertdeau: #C2DDB0;
+--epfl-rose: #ED6E9C;
+--epfl-acier: #4F8FCC;
+--epfl-soufre: #FBEE66;
+--epfl-carotte: #EC6608;
+--epfl-zinzolin: #5C2483;
+--epfl-chartreuse: #C8D300;
+--epfl-marron: #5B3428;
+--epfl-ardoise: #453A4C;
+--epfl-taupe: #413D3A;
+```
