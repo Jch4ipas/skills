@@ -10,12 +10,12 @@ First of all, do a `git clone git@gitlab.epfl.ch:nborboen/skills.git` into
 * or globally under `~/.copilot/skills/`, `~/.claude/skills/`,
   `~/.agents/skills/`, `~/.config/opencode`, etc.
 
-See [¹] and [²] for details.
+See [^1] and [^2] for details.
 
 > [!TIP]
-> If you are not sure, use `~/.config/agents/` which is the most generic.  
-> Run `mkdir ~/.config/agents/` then  
-> `git clone git@gitlab.epfl.ch:nborboen/skills.git ~/.config/agents/skills`
+> If you are not sure, use `~/.agents/` which is the most generic.  
+> Run `mkdir ~/.agents/` then  
+> `git clone git@gitlab.epfl.ch:nborboen/skills.git ~/.agents/skills`
 
 ## Skills list
 
@@ -23,12 +23,14 @@ Belows stand the list of agents that you can use in your project.
 - [coding-standards](./coding-standards/SKILL.md)
 - [developer](./developer/SKILL.md)
 - [EPFL-colors](./EPFL-colors/SKILL.md)
+- [EPFL-logo](./EPFL-logo/SKILL.md)
 - [git](./git/SKILL.md)
 - [HTML](./HTML/SKILL.md)
 - [makefile](./makefile/SKILL.md)
 - [markdown](./markdown/SKILL.md)
 - [repository](./repository/SKILL.md)
 - [security](./security/SKILL.md)
+- [seo](./seo/SKILL.md)
 
 ## NOTES
 
@@ -41,5 +43,5 @@ new agent, your help is highly appreciated. Contributors of all skill levels are
 welcome.
 
 
-[¹]: https://code.visualstudio.com/docs/copilot/customization/agent-skills
-[²]: https://opencode.ai/docs/skills/
+[^1]: https://code.visualstudio.com/docs/copilot/customization/agent-skills
+[^2]: https://opencode.ai/docs/skills/
