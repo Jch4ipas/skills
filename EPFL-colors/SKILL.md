@@ -5,20 +5,20 @@ license: MIT
 compatibility: opencode
 ---
 
-# Identité visuelle et charte graphique
+# Visual identity and graphic guidelines
 
-Une charte graphique et éditoriale, aboutissement d'une étude identitaire, est
-disponible sur le site https://inside.epfl.ch/corp-id/ .
+A graphic and editorial style guide, the result
+of an identity study, is available on the website
+[https://inside.epfl.ch/corp-id/](https://inside.epfl.ch/corp-id/).
 
-## Couleurs
+## Colors
 
-Utiliser les couleurs de manière appropriée est l'un des moyens les plus simples
-de s'assurer que nos documents reflètent une image ou une histoire visuelle
-cohérentes de l'EPFL.
+Using colors appropriately is one of the simplest ways to ensure that our
+documents reflect a consistent visual image or story for EPFL.
 
-### Couleurs principales
+### Primary colors
 
-1. Officielle — Rouge suisse
+1. Official — Rouge suisse
     CMYK 0 / 100 / 100 / 0
     RGB 255 / 0 / 0
     #FF0000
@@ -30,20 +30,20 @@ cohérentes de l'EPFL.
     #00A79F
     Pantone 3272
     RAL 5018
-3.  Officielle sombre — Groseille
+3.  Dark official — Groseille
     CMYK 30 / 100 / 100 / 0
     RGB 181 / 31 / 31
     #B51F1F
     Pantone 3546
     RAL 3000
-4.  Alternative sombre — Canard
+4.  Dark alternative — Canard
     CMYK 90 / 0 / 30 / 40
     RGB 0 / 116 / 128
     #007480
     Pantone 7714
     RAL 5025
 
-### Couleurs secondaires
+### Secondary colors
 
 1. Mont Rose
     CMYK 0 / 50 / 60 / 0
@@ -100,7 +100,8 @@ cohérentes de l'EPFL.
 ## Styles
 
 Use variables in cascading styles sheets:
-```
+
+```css
 --epfl-red: #FF0000;
 --epfl-groseille: #B51F1F;
 --epfl-turquoise: #00A79F;
