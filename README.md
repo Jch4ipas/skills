@@ -29,6 +29,7 @@ Belows stand the list of agents that you can use in your project.
 - [repository](./repository/SKILL.md)
 - [security](./security/SKILL.md)
 - [seo](./seo/SKILL.md)
+- [working-method](./working-method/SKILL.md)
 
 Those 2 agents are use only if it's specified in the prompt
 - [EPFL-colors](./EPFL-colors/SKILL.md)
