@@ -4,7 +4,7 @@ We are in 2026, IA blows up everywhere. This is my collection of skills.
 
 ## Usage
 
-First of all, do a `git clone git@gitlab.epfl.ch:nborboen/skills.git` into 
+First of all, do a `git clone https://github.com/Jch4ipas/skills.git` into 
 * your project under `.github/skills/`, `.claude/skills/`, `.agents/skills/`,
   `.opencode/skills`, etc.
 * or globally under `~/.copilot/skills/`, `~/.claude/skills/`,
@@ -15,7 +15,7 @@ See [^1] and [^2] for details.
 > [!TIP]
 > If you are not sure, use `~/.agents/` which is the most generic.  
 > Run `mkdir ~/.agents/` then  
-> `git clone git@gitlab.epfl.ch:nborboen/skills.git ~/.agents/skills`
+> `git clone https://github.com/Jch4ipas/skills.git ~/.agents/skills`
 
 ## Skills list
 
