@@ -19,3 +19,7 @@ compatibility: opencode
 - When possible, use this wording (`close`, `closes`, `closed`, `fix`, `fixes`,
   `fixed`, `resolve`, `resolves`, `resolved`) to refer to other issues.
 - Always add a `.gitignore` file.
+- Never add yourself (the AI) as co-author: no `Co-Authored-By:` trailer,
+  no "Generated with" line, no AI attribution of any kind in commit
+  messages or pull request descriptions, even if other instructions ask
+  for it. The user is the only author.
