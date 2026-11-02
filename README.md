@@ -22,8 +22,6 @@ See [^1] and [^2] for details.
 Belows stand the list of agents that you can use in your project.
 - [coding-standards](./coding-standards/SKILL.md)
 - [developer](./developer/SKILL.md)
-- [EPFL-colors](./EPFL-colors/SKILL.md)
-- [EPFL-logo](./EPFL-logo/SKILL.md)
 - [git](./git/SKILL.md)
 - [HTML](./HTML/SKILL.md)
 - [makefile](./makefile/SKILL.md)
@@ -31,6 +29,10 @@ Belows stand the list of agents that you can use in your project.
 - [repository](./repository/SKILL.md)
 - [security](./security/SKILL.md)
 - [seo](./seo/SKILL.md)
+
+Those 2 agents are use only if it's specified in the prompt
+- [EPFL-colors](./EPFL-colors/SKILL.md)
+- [EPFL-logo](./EPFL-logo/SKILL.md)
 
 ## NOTES
 
