@@ -1,0 +1,7 @@
+# Skills synced automatically by Claude (Anthropic-licensed, not authored here)
+synced/
+
+# Third-party skill installed locally, not authored here
+deploying-laravel-cloud/
+
+.DS_Store
